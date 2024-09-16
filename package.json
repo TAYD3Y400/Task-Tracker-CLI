@@ -1,0 +1,16 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "main": "./bin/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "task-tracker-cli": "./bin/app.js"
+  },
+  "dependencies": {
+  }
+}
